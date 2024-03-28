@@ -1,12 +1,17 @@
-steps:
-- name: 'gcr.io/cloud-builders/docker'
-  args: ['build', '-t', 'gcr.io/projectrun/projectrundockerimage', '.']
-- name: 'gcr.io/cloud-builders/docker'
-  args: ['push', 'gcr.io/projectrun/projectrundockerimage']
-- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
-  entrypoint: gcloud
-  args: ['run', 'deploy', 'run-project', '--image', 'gcr.io/projectrun/projectrundockerimage', '--region', 'asia-east1']
-images:
-- gcr.io/projectrun/projectrundockerimage
-options:
-  logging: CLOUD_LOGGING_ONLY
+ steps:
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['build', '-t', 'gcr.io/$PROJECT_ID/run-project:$COMMIT_SHA', '.']
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/run-project:$COMMIT_SHA']
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+    - 'run'
+    - 'deploy'
+    - 'run-project'
+    - '--image'
+    - 'gcr.io/$PROJECT_ID/run-project:$COMMIT_SHA'
+    - '--region'
+    - 'asia-east1'
+  images:
+  - 'gcr.io/$PROJECT_ID/run-project:$COMMIT_SHA'
