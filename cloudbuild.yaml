@@ -1,0 +1,10 @@
+steps:
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['build', '-t', 'gcr.io/ProjectRun/ProjectRunDockerImage', '.']
+- name: 'gcr.io/cloud-builders/docker'
+  args: ['push', 'gcr.io/ProjectRun/ProjectRunDockerImage']
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  entrypoint: gcloud
+  args: ['run', 'deploy', 'run-project', '--image', 'gcr.io/ProjectRun/ProjectRunDockerImage', '--region', 'asia-east1']
+images:
+- gcr.io/ProjectRun/ProjectRunDockerImage
