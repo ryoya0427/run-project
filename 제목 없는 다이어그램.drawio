@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T06:33:28.501Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jza2N453czCvKypdDYq6" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T06:34:18.435Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="vo9VlAPrOTiDoGWUAqzE" version="24.2.2" type="github">
   <diagram name="페이지-1" id="fhRKMd2EhU1pvt1cXbKF">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,10 +74,10 @@
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2280" value="계정 삭제" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="760" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2281" value="커뮤니티 글, 댓글 작성" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2281" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="820" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2282" value="커뮤니티 글, 댓글 수정" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2282" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="880" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2283" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
