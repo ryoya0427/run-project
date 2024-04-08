@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T06:46:30.310Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="4idG_4rR7RpWWMcj3TDK" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T06:48:54.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="NPyPS73UKHMpGTMcfm9M" version="24.2.2" type="github">
   <diagram name="페이지-1" id="fhRKMd2EhU1pvt1cXbKF">
     <mxGraphModel dx="1936" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,14 +19,6 @@
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2252" value="일반 사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="-170" y="675" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2267" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9DiqVA_Cxh-YaxuWzxP3-2254" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-155" y="755" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2254" value="문제 제공 가능 사용자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="-170" y="785" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2266" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9DiqVA_Cxh-YaxuWzxP3-2255" target="9DiqVA_Cxh-YaxuWzxP3-2251" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -274,7 +266,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="PDSSSuy5G5nGvwK6suRO-21" value="커뮤니티 관리자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="785" width="30" height="60" as="geometry" />
+          <mxGeometry x="-70" y="785" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PDSSSuy5G5nGvwK6suRO-25" value="시스템 관리자" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="785" width="30" height="60" as="geometry" />
