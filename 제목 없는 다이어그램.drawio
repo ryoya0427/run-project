@@ -1,9 +1,57 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T05:53:45.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.2" etag="BASSPQourqZ_HnIJ2z84" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T06:00:21.968Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8ynKu1pR7rg2V36yqKtk" version="24.2.2" type="github">
   <diagram name="페이지-1" id="P92IDIxB-07LZbA0uTBh">
-    <mxGraphModel>
+    <mxGraphModel dx="896" dy="466" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-1" value="회원가입" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="500" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-2" value="로그인" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="560" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-3" value="닉네임 변경" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="620" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-4" value="수준 변경" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="680" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-5" value="라이센스 결제 진행" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="740" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-6" value="문제 생성" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="800" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-7" value="문제 조회" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="860" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-8" value="문제에 해당하는 자신의 답변 이력 조회" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="920" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-9" value="문제 정답 확인" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="500" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-10" value="문제당 답변 기회 몇번 있는지 확인" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="560" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-11" value="문제 답변 제출" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="620" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-12" value="문제 생성 알림 받기" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="680" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-13" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="740" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-14" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="800" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="860" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VhF9RSgYSfxIK7Hk7AZq-16" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="920" width="120" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
