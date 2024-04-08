@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-08T06:21:32.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="b-rLq8dUcWR7rCFhgW55" version="24.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-08T06:22:46.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="pNb55ewxkdQ8Vz2ZH0IJ" version="24.2.2" type="github">
   <diagram name="페이지-1" id="fhRKMd2EhU1pvt1cXbKF">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,34 +36,34 @@
           <mxGeometry x="150" y="290" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2268" value="회원가입" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="300" width="120" height="50" as="geometry" />
+          <mxGeometry x="300" y="520" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2269" value="로그인" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="300" width="120" height="50" as="geometry" />
+          <mxGeometry x="300" y="580" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2270" value="닉네임 변경" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="354" y="240" width="120" height="50" as="geometry" />
+          <mxGeometry x="300" y="640" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2271" value="수준 변경" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="240" width="120" height="50" as="geometry" />
+          <mxGeometry x="300" y="700" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2272" value="라이센스 결제 진행" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="760" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2273" value="문제 생성" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="680" width="120" height="50" as="geometry" />
+          <mxGeometry x="300" y="820" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2274" value="문제 조회" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="60" y="740" width="120" height="50" as="geometry" />
+          <mxGeometry x="300" y="880" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2275" value="문제에 해당하는 자신의 답변 이력 조회" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="940" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2276" value="문제 정답 확인" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="295" width="120" height="50" as="geometry" />
+          <mxGeometry x="440" y="520" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2277" value="문제당 답변 기회 몇번 있는지 확인" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="780" y="240" width="120" height="50" as="geometry" />
+          <mxGeometry x="440" y="580" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2278" value="문제 답변 제출" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="640" width="120" height="50" as="geometry" />
@@ -74,7 +74,7 @@
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2280" value="계정 삭제" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="760" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2281" value="커뮤니티" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2281" value="&amp;nbsp;ㄿㅎ&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="440" y="820" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2282" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -84,7 +84,7 @@
           <mxGeometry x="440" y="940" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2284" value="Table" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="600" y="490" width="430" height="470" as="geometry" />
+          <mxGeometry x="630" y="520" width="430" height="470" as="geometry" />
         </mxCell>
         <mxCell id="9DiqVA_Cxh-YaxuWzxP3-2285" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;" parent="9DiqVA_Cxh-YaxuWzxP3-2284" vertex="1">
           <mxGeometry y="30" width="430" height="40" as="geometry" />
